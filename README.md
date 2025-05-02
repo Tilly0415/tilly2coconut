@@ -1,9 +1,8 @@
 # tilly2coconut
-GitHub Profile Introduction for Tianyi (Tilly) Hu
 
 👋 Hi, I'm Tianyi (Tilly) Hu
 📚 Master’s Candidate in Applied Data Science @ University of Chicago | GPA: 4.0
-💻 Data Scientist | Marketing Analytics Specialist | Tech for Good Advocate
+💻 Data Analyst | Marketing Analytics Specialist | Tech for Good Advocate
 🌍 Bridging data-driven insights from luxury retail to aviation, with a passion for solving real-world challenges.
 
 🚀 What I Bring to the Table
