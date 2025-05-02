@@ -33,6 +33,7 @@ Domain Expertise:
 
 ---
 💼 Career Goals
+
 🔍 Seeking full-time roles or internships (starting Dec 2025) in:
 
 Data Science | Business Analytics | Tech for Social Impact
@@ -41,6 +42,7 @@ Passionate about leveraging data to drive decisions in healthcare innovation, su
 
 ---
 🔥 Projects That Define My Journey
+
 1️⃣Optimizing Airline Operations
 
 Cleaned and analyzed 10k+ flight delay records with Python, designed an EER database in MySQL, and created Tableau dashboards to visualize delay patterns.
@@ -59,6 +61,7 @@ Developed segmentation models to tailor campaigns for 1M+ users, driving an 8% r
 
 ---
 🌱 Currently Learning
+
 Advanced ML techniques (LLM, Deep Learning)
 
 Scalable cloud architectures (BigQuery, Spark)
@@ -68,14 +71,18 @@ Ethical AI frameworks for social impact
 ---
 
 💬 Let’s Collaborate!
+
 🤝 Open to projects in data storytelling, predictive analytics, or open-source tools for social good.
 
 💡 Want to brainstorm how data can optimize healthcare access or reduce carbon footprints? Let’s chat!
 
 ---
 📫 Reach Out!
+
 📧 Email: tillyhu@uchicago.edu
+
 🔗 LinkedIn: https://www.linkedin.com/in/tianyi-hu-395033330/
 
+---
 
 "Data isn’t just numbers—it’s the bridge between problems and solutions. Let’s build that bridge together!"
