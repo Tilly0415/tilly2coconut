@@ -5,6 +5,7 @@
 💻 Data Analyst | Marketing Analytics Specialist | Tech for Good Advocate
 🌍 Bridging data-driven insights from luxury retail to aviation, with a passion for solving real-world challenges.
 
+
 🚀 What I Bring to the Table
 Tech Stack:
 
@@ -18,6 +19,8 @@ Tech Stack:
 
 🔧 Tools: Git/GitHub, SAP, Stata
 
+
+
 Domain Expertise:
 
 🛍️ CRM & Customer Segmentation: Scaled Richemont’s client base by 10% using Python-powered K-means clustering (1M+ campaign reach).
@@ -28,6 +31,7 @@ Domain Expertise:
 
 🏦 Predictive Analytics: Achieved 95% accuracy in real estate valuations at China Construction Bank using regression models.
 
+
 💼 Career Goals
 🔍 Seeking full-time roles or internships (starting Dec 2025) in:
 
@@ -35,39 +39,42 @@ Data Science | Business Analytics | Tech for Social Impact
 
 Passionate about leveraging data to drive decisions in healthcare innovation, sustainable tech, and customer-centric solutions.
 
+
 🔥 Projects That Define My Journey
-Optimizing Airline Operations
+1️⃣Optimizing Airline Operations
 
 Cleaned and analyzed 10k+ flight delay records with Python, designed an EER database in MySQL, and created Tableau dashboards to visualize delay patterns.
 
 Impact: Enabled actionable strategies to reduce delays and improve customer satisfaction.
 
-GitHub Link
-
-Cross-border E-commerce & China’s Export Trade
+2️⃣Cross-border E-commerce & China’s Export Trade
 
 Analyzed 10 years of provincial data using Stata and panel models, identifying digital infrastructure as a key growth driver.
 
 Insight: Published as a top-scoring econometrics research paper.
 
-CRM Client Activation at Richemont
+3️⃣CRM Client Activation at Richemont
 
 Developed segmentation models to tailor campaigns for 1M+ users, driving an 8% revenue increase through Power BI dashboards.
 
+
 🌱 Currently Learning
-Advanced ML techniques (NLP, Deep Learning)
+Advanced ML techniques (LLM, Deep Learning)
 
 Scalable cloud architectures (BigQuery, Spark)
 
 Ethical AI frameworks for social impact
+
 
 💬 Let’s Collaborate!
 🤝 Open to projects in data storytelling, predictive analytics, or open-source tools for social good.
 
 💡 Want to brainstorm how data can optimize healthcare access or reduce carbon footprints? Let’s chat!
 
+
 📫 Reach Out!
 📧 Email: tillyhu@uchicago.edu
 🔗 LinkedIn: https://www.linkedin.com/in/tianyi-hu-395033330/
+
 
 "Data isn’t just numbers—it’s the bridge between problems and solutions. Let’s build that bridge together!"
