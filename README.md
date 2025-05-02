@@ -1,4 +1,4 @@
-# tilly2coconut
+# Self Intro
 
 👋 Hi, I'm Tianyi (Tilly) Hu
 📚 Master’s Candidate in Applied Data Science @ University of Chicago | GPA: 4.0
